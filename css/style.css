@@ -938,7 +938,8 @@ footer{
     position: relative;
     display: flex;
     flex-direction: column;
-    margin-top: 10px;
+    margin-top: 10px;    
+    margin-bottom: 17px;
   }  
 
   .modal-form input{
@@ -1051,7 +1052,6 @@ footer{
 }
  
 .modal-btn{
-    font-family: "Roboto", sans-serif;
     font-size: 16px;
     line-height: 1.87;
     text-align: center;
